@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		454E9D431F1877F80083C4F6 /* Sender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454E9D421F1877F80083C4F6 /* Sender.swift */; };
+		4573A31F1F1EF87F009E3447 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4573A31E1F1EF87F009E3447 /* ReadMe.txt */; };
 		45818BDB1F1D50B70075B8FA /* Body.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45818BDA1F1D50B70075B8FA /* Body.swift */; };
 		459CE8FA1F15D4440027F5AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459CE8F91F15D4440027F5AB /* AppDelegate.swift */; };
 		459CE8FC1F15D4440027F5AB /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 459CE8FB1F15D4440027F5AB /* GameScene.sks */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		454E9D421F1877F80083C4F6 /* Sender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sender.swift; sourceTree = "<group>"; };
+		4573A31E1F1EF87F009E3447 /* ReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		45818BDA1F1D50B70075B8FA /* Body.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Body.swift; sourceTree = "<group>"; };
 		459CE8F61F15D4440027F5AB /* MalamkarAbhijeet_The_Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MalamkarAbhijeet_The_Game.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		459CE8F91F15D4440027F5AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 		459CE8ED1F15D4440027F5AB = {
 			isa = PBXGroup;
 			children = (
+				4573A31E1F1EF87F009E3447 /* ReadMe.txt */,
 				459CE8F81F15D4440027F5AB /* MalamkarAbhijeet_The_Game */,
 				459CE8F71F15D4440027F5AB /* Products */,
 			);
@@ -168,6 +171,7 @@
 				459CE8FC1F15D4440027F5AB /* GameScene.sks in Resources */,
 				459CE9071F15D4440027F5AB /* Assets.xcassets in Resources */,
 				459CE90A1F15D4440027F5AB /* LaunchScreen.storyboard in Resources */,
+				4573A31F1F1EF87F009E3447 /* ReadMe.txt in Resources */,
 				459CE8FE1F15D4440027F5AB /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
